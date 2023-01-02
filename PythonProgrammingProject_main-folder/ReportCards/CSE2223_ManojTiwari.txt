@@ -1,0 +1,14 @@
+Name of the student : Manoj Tiwari 
+Class Roll of the student : 23 
+Stream of the student : CSE 
+Your Student ID is : CSE2223
+
+Marks obtained in Math is : 32 
+Marks obtained in Python is : 27 
+Marks obtained in Physics is : 57 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 82 
+
+You have got 352 in total with 58%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

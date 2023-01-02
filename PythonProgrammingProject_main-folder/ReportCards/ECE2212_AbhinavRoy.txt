@@ -1,0 +1,14 @@
+Name of the student : Abhinav Roy 
+Class Roll of the student : 12 
+Stream of the student : ECE 
+Your Student ID is : ECE2212
+
+Marks obtained in Math is : 78 
+Marks obtained in Python is : 67 
+Marks obtained in Physics is : 88 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 94 
+Marks obtained in English is : 67 
+
+You have got 484 in total with 96%
+Excellent Performance... You have passed the exam with grade B.

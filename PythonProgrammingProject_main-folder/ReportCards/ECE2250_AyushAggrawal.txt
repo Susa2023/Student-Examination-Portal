@@ -1,0 +1,14 @@
+Name of the student : Ayush Aggrawal 
+Class Roll of the student : 50 
+Stream of the student : ECE 
+Your Student ID is : ECE2250
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 88 
+Marks obtained in Physics is : 92 
+Marks obtained in Chemistry is : 93 
+Marks obtained in Biology is : 78 
+Marks obtained in English is : 90 
+
+You have got 528 in total with 105%
+Excellent Performance... You have passed the exam with grade B.
